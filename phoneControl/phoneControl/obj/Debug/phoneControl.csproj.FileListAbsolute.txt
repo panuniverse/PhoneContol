@@ -1,0 +1,10 @@
+W:\Phone\source\phoneControl\phoneControl\bin\Debug\phoneControl.exe.config
+W:\Phone\source\phoneControl\phoneControl\bin\Debug\phoneControl.exe
+W:\Phone\source\phoneControl\phoneControl\bin\Debug\phoneControl.pdb
+W:\Phone\source\phoneControl\phoneControl\obj\Debug\phoneControl.csprojAssemblyReference.cache
+W:\Phone\source\phoneControl\phoneControl\obj\Debug\phoneControl.Form1.resources
+W:\Phone\source\phoneControl\phoneControl\obj\Debug\phoneControl.Properties.Resources.resources
+W:\Phone\source\phoneControl\phoneControl\obj\Debug\phoneControl.csproj.GenerateResource.cache
+W:\Phone\source\phoneControl\phoneControl\obj\Debug\phoneControl.csproj.CoreCompileInputs.cache
+W:\Phone\source\phoneControl\phoneControl\obj\Debug\phoneControl.exe
+W:\Phone\source\phoneControl\phoneControl\obj\Debug\phoneControl.pdb
